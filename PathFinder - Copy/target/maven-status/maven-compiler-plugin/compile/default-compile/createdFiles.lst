@@ -1,0 +1,9 @@
+com\jobportal\servlet\JobsServlet.class
+com\jobportal\servlet\EmployerServlet.class
+com\jobportal\servlet\SeekerServlet.class
+com\jobportal\dao\PortalDAO.class
+com\jobportal\model\Job.class
+com\jobportal\model\User.class
+com\jobportal\model\Application.class
+com\jobportal\util\HibernateUtil.class
+com\jobportal\servlet\AuthServlet.class
